@@ -2,12 +2,12 @@
 My google code jam problems in chronological order of attempt.
 
 #### [Dice Straight](https://code.google.com/codejam/contest/6314486/dashboard)
--Maps __
--Bipartite Matching __
+-Maps__
+-Bipartite Matching__
 
 #### [Snapper Chain](https://code.google.com/codejam/contest/433101/dashboard)
--Small And Large solved __
--Bit Manipulation __
+-Small And Large solved__
+-Bit Manipulation__
 
 
 
