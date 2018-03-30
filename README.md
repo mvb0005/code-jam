@@ -2,11 +2,11 @@
 My google code jam problems in chronological order of attempt.
 
 ### Dice Straight
-Currently still unsolved
+Currently still unsolved\n
 Maps
 
 ### Snapper Chain
-Small And Large solved
+Small And Large solved\n
 Bit Manipulation
 
 
